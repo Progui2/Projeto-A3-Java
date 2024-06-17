@@ -11,7 +11,7 @@ Esse projeto foi desenvolvido com o intuito de facilitar as marcações dos hor�
 
 ### Integrantes:
 - Pedro Rodrigues (pedrorogui@hotmail.com)
-- Matheus Ferreira ()
+- Matheus Ferreira (matheusferreira9602@gmail.com)
 - Andre Luiz Anjos (aabrrluiz@gmail.com)
 - Diogo Freitas ()
 - Vinicius Paiva ()
