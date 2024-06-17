@@ -14,4 +14,4 @@ Esse projeto foi desenvolvido com o intuito de facilitar as marcações dos hor�
 - Matheus Ferreira (matheusferreira9602@gmail.com)
 - Andre Luiz Anjos (aabrrluiz@gmail.com)
 - Diogo Freitas ()
-- Vinicius Paiva ()
+- Vinicius Paiva (viniciuspp122@gmail.com)
